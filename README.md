@@ -1,10 +1,10 @@
 # Projet 11: Créez votre portfolio de professionnel de la data
 
-Conception d’un **tableau de bord** de veille métier sous Power BI.
-
 Analyse des **besoins métiers** en tenant compte des contraintes afin de définir les objectifs et enjeux.
 
 Élaboration d’un **cahier des charges** fonctionnel pour structurer les besoins et les solutions.
+
+Conception d’un **tableau de bord** de veille métier sous Power BI.
 
 Gestion d’un projet d’analyse data à l’aide **d’outils de gestion de projet**.
 

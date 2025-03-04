@@ -1,5 +1,3 @@
-![image]("C:\Users\leghi\OneDrive\Bureau\projet11\Capture d'écran 2025-03-04 115217.png")
-
 # Projet 11: Créez votre portfolio de professionnel de la data
 
 Conception d’un **tableau de bord** de veille métier sous Power BI.

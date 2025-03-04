@@ -1,6 +1,6 @@
 # Projet 11: Créez votre portfolio de professionnel de la data
 
-Analyse des **besoins métiers** en tenant compte des contraintes afin de définir les objectifs et enjeux.
+Analyse des **besoins métiers** en tenant compte des contraintes afin de définir les objectifs et enjeux (https://github.com/Sabrina-Ls/Portfolio-/blob/main/Besoin%20client.pdf)
 
 Élaboration d’un **cahier des charges** fonctionnel pour structurer les besoins et les solutions.
 

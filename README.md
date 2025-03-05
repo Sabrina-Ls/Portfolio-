@@ -8,7 +8,7 @@ Conception d’un **tableau de bord** de veille métier sous Power BI( https://g
 
 Gestion d’un projet d’analyse data à l’aide **d’outils de gestion de projet** (https://github.com/Sabrina-Ls/Portfolio-/blob/main/Gantt.pbix)
 
-**Formation et accompagnement** des équipes dans l’utilisation des outils (https://github.com/Sabrina-Ls/Portfolio-/blob/main/Vid%C3%A9o%20de%20formation.mp4)
+**Formation et accompagnement** des équipes dans l’utilisation des outils ([https://github.com/Sabrina-Ls/Portfolio-/blob/main/Vid%C3%A9o%20de%20formation.mp4](https://github.com/Sabrina-Ls/Portfolio-/blob/main/Vid%C3%A9o%20formation.mp4))
 
 Rédaction de la **documentation** pour garantir une gestion efficace et pérenne (https://github.com/Sabrina-Ls/Portfolio-/blob/main/Documentation%20.pdf)
 
